@@ -1,0 +1,5 @@
+B1: Clone repository: git clone https://gitlab.com/tubcvt/git-basic-ex6.git
+B2: Thay doi global config:git config --global user.email "Phamdund97@gmail.com" va git config --global user.name "Pham Du"
+B3: Dat lai remote url: git remote set-url origin https://github.com/phamdund97/Exercise-6.git
+B4: Sau khi commit tren branch f1, dung revert de undo lai commit sai va giu duoc commit log:  git revert <hash log commit>
+Link: https://github.com/phamdund97/Exercise-6
